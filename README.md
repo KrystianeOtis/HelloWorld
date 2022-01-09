@@ -5,7 +5,7 @@ This is a demonstration on how Visual Studio Code, Python, and GitHub can be use
 If you run the code it will print "Hello World" in the terminal.
 
 
-Click the following link for a video demonstration: [Software Demo Video](http://youtube.link.goes.here)
+Click the following link for a video demonstration: [Software Demo Video](https://youtu.be/dlBFa59Mr_Y)
 
 # Development Environment
 
